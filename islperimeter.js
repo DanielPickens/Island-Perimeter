@@ -1,4 +1,4 @@
-//Divide and Conquer Approach
+//Iterative approach 
 
 const islandPerimeter = function(grid) {
     let p = 0;
