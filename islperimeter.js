@@ -1,3 +1,5 @@
+//Divide and Conquer Approach
+
 const islandPerimeter = function(grid) {
     let p = 0;
         for (let i = 0; i < grid.length; i++) {
